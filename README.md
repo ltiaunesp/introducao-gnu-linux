@@ -1,6 +1,6 @@
 # Minicurso - Introdução ao GNU-Linux
 
-Palestra de introdução ao GNU-Linux elaborado e ministrado pelo [LTIA](https://github.com/ltiaunesp/). 
+Palestra de introdução ao GNU-Linux elaborado e ministrado pelo [LTIA](https://github.com/ltiaunesp/). O PDF mais atualizado pode ser acessado aqui: [introducao-ao-gnu-ltia.pdf](introducao-ao-gnu-ltia.pdf).
 
 ## Participação em Eventos
 
