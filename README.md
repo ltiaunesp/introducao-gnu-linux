@@ -6,9 +6,9 @@ Palestra de introdução ao GNU-Linux elaborado e ministrado pelo [LTIA](https:/
 
 Eventos em que essa palestra foi ministrada:
 
-| Evento | Palestrantes |
-| ------ | ------------ |
-| [JDI 2015 - Jornada de Informática](https://www.facebook.com/jdibauru) | [Luís Puhl](https://github.com/luis-puhl) e [Gabriel Oliveira](https://github.com/gabrielboliveira) |
+| Evento | Palestrantes | Data |
+| ------ | ------------ | ---- |
+| [JDI 2015 - Jornada de Informática](https://www.facebook.com/jdibauru) | [Luís Puhl](https://github.com/luis-puhl) e [Gabriel Oliveira](https://github.com/gabrielboliveira) | 22/10/2015 |
 
 ## Licença
 
